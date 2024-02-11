@@ -1,4 +1,5 @@
-# Contour Exersies 
+# playing with contours
+>>>>>>> UpdateText
 import cv2
 import numpy as np
   
