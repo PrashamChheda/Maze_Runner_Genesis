@@ -1,4 +1,4 @@
-# Task objective: Use an object of a specific color to draw on the screen using that object
+# Task objective: Following a specific colored object
 import cv2
 import numpy as np
 
